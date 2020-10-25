@@ -1,0 +1,9 @@
+{
+  "name": "cf-next-ts-connect",
+  "version": "1.0.0",
+  "description": "Code Frequency Next.js TS starter",
+  "main": "index.js",
+  "author": "Sokos6",
+  "license": "MIT",
+  "private": false
+}
